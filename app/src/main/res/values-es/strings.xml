@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CIS3515_PaletteCanvas</string>
+    <string name="Title">Paleta Lienzo Fragmento</string>
+    <string-array name="colors">
+        <item name="White">Blanco</item>
+        <item name="Red">Rojo</item>
+        <item name="Orange">Naranja</item>
+        <item name="Yellow">Amarillo</item>
+        <item name="Green">Verde</item>
+        <item name="Blue">Azul</item>
+        <item name="Violet">Violeta</item>
+        <item name="Grey">Gris</item>
+        <item name="Cyan">Cian</item>
+        <item name="Magenta">Magenta</item>
+        <item name="Black">Negro</item>
+    </string-array>
+</resources>

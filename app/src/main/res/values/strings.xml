@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CIS_PCFragment</string>
+    <string name="Title">Palette Canvas Fragment</string>
+    <string-array name="colors">
+        <item name="White">White</item>
+        <item name="Red">Red</item>
+        <item name="Orange">Orange</item>
+        <item name="Yellow">Yellow</item>
+        <item name="Green">Green</item>
+        <item name="Blue">Blue</item>
+        <item name="Violet">Violet</item>
+        <item name="Grey">Grey</item>
+        <item name="Cyan">Cyan</item>
+        <item name="Magenta">Magenta</item>
+        <item name="Black">Black</item>
+    </string-array>
+</resources>
